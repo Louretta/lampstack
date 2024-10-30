@@ -1,1 +1,1 @@
-# My-lampstack-project
+self-lampstack-project

@@ -4,7 +4,7 @@ locals {
   code_bucket ="my_wordpress-code-bucket"
   log_bucket ="my-wordpress-log-bucket"
   s3_origin_id = "my-wordpress-s3-origin"
-  emails = ["louretta.eyina@cloudhight.com"]
+  emails = ["louretta.eyina@gmail.com"]
 }
 
 #create vpc 
